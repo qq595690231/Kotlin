@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kotlin.BaseLibrary" >
+    <application android:allowBackup="true"
+        android:icon="@color/colorAccent"
+        android:label="BaseLibrary"
+        android:supportsRtl="true"
+        ></application>
+
+</manifest>
